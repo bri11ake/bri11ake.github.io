@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bri11ake.github.io</id>
     <title>bri11ake</title>
-    <updated>2021-05-05T11:15:28.636Z</updated>
+    <updated>2021-05-05T11:28:38.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bri11ake.github.io"/>
     <link rel="self" href="https://bri11ake.github.io/atom.xml"/>
@@ -89,6 +89,22 @@
         </link>
         <updated>2021-04-27T06:05:05.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://bri11ake.github.io/post-images/1619503543019.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于本站]]></title>
+        <id>https://bri11ake.github.io/post/about/</id>
+        <link href="https://bri11ake.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>永远年轻，永远热泪盈眶</p>
+</blockquote>
+<h2 id="博主是谁关山口男子职业技术学院某同学bri11ake来自博主真名">👨‍💻 博主是谁：关山口男子职业技术学院某同学，bri11ake来自博主真名</h2>
+<h2 id="兴趣爱好羽毛球-桌游-喝酒">⛹ 兴趣爱好：羽毛球、桌游、喝酒</h2>
+<h2 id="联系我呀">📬 联系我呀：</h2>
+<pre><code>    TEL：18372001409
+    QQ：473265370</code></pre>
 ]]></content>
     </entry>
 </feed>
