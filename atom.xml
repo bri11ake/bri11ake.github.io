@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bri11ake.github.io</id>
     <title>bri11ake</title>
-    <updated>2021-05-08T10:16:37.424Z</updated>
+    <updated>2021-05-10T08:23:16.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bri11ake.github.io"/>
     <link rel="self" href="https://bri11ake.github.io/atom.xml"/>
@@ -10,93 +10,6 @@
     <logo>https://bri11ake.github.io/images/avatar.png</logo>
     <icon>https://bri11ake.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, bri11ake</rights>
-    <entry>
-        <title type="html"><![CDATA[从《上瘾》看王者荣耀的用户培养]]></title>
-        <id>https://bri11ake.github.io/post/cong-lesslessshang-yin-greatergreater-kan-wang-zhe-rong-yao-de-yong-hu-pei-yang/</id>
-        <link href="https://bri11ake.github.io/post/cong-lesslessshang-yin-greatergreater-kan-wang-zhe-rong-yao-de-yong-hu-pei-yang/">
-        </link>
-        <updated>2021-05-08T06:54:32.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>    最近在看</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器学习线路（码）]]></title>
-        <id>https://bri11ake.github.io/post/ji-qi-xue-xi-xian-lu-ma/</id>
-        <link href="https://bri11ake.github.io/post/ji-qi-xue-xi-xian-lu-ma/">
-        </link>
-        <updated>2021-05-08T03:46:09.000Z</updated>
-        <content type="html"><![CDATA[<p>机器学习的线路<br>
-先码着，慢慢学慢慢整</p>
-<h3 id="深度学习">深度学习</h3>
-<p><a href="https://www.jianshu.com/p/df9a4473d6d4">浅谈深度学习基础（上） - 简书</a><br>
-<a href="https://www.jianshu.com/p/3d1ddfce1563">浅谈深度学习基础（下） - 简书</a></p>
-<h3 id="机器学习">机器学习</h3>
-<p><a href="https://www.jianshu.com/p/ed9ae5385b89?utm_campaign=haruki&amp;utm_content=note&amp;utm_medium=reader_share&amp;utm_source=weixin">浅谈机器学习基础（上） - 简书</a><br>
-<a href="https://www.jianshu.com/p/0359e3b7bb1b">浅谈机器学习基础（下） - 简书</a><br>
-<a href="https://shimo.im/docs/HvhvkPqtcpCWCrx8/read">团员分享<em>产品视角的14种常见算法简单总结</em>@haiqiao_20200210</a></p>
-<h3 id="nlp">NLP</h3>
-<p><a href="https://shimo.im/docs/eSrDCe2611wiwZUA/read">团员分享_NLP相关Deep Learning模型小结_Lily_20190427</a><br>
-<a href="https://www.jianshu.com/p/c123c7534500">浅谈自然语言处理基础（上） - 简书</a><br>
-<a href="https://www.jianshu.com/p/3bb214a200ca">浅谈自然语言处理基础（中） - 简书</a><br>
-<a href="https://www.jianshu.com/p/872a72e861fd">浅谈自然语言处理基础（下） - 简书</a></p>
-<h2 id="辅助算法">辅助算法</h2>
-<p>EM算法：<br>
-<a href="https://blog.csdn.net/zouxy09/article/details/8537620">从最大似然到EM算法浅解_网络_zouxy09的专栏-CSDN博客</a><br>
-<a href="https://www.jianshu.com/p/1121509ac1dc">如何感性地理解EM算法？ - 简书</a></p>
-<p>BP算法：<br>
-<a href="https://zhuanlan.zhihu.com/p/25609953">神经网络反向传播算法 - 知乎</a></p>
-<p>损失函数：<br>
-<a href="https://zhuanlan.zhihu.com/p/58883095">常见的损失函数(loss function)总结 - 知乎</a><br>
-<a href="https://zhuanlan.zhihu.com/p/38241764">简单的交叉熵损失函数，你真的懂了吗？ - 知乎</a><br>
-<a href="https://www.jianshu.com/p/5d13bcd9d990">机器学习面试之MSE与CE的区别？ - 简书</a></p>
-<p>激活函数：<br>
-<a href="https://blog.csdn.net/tyhj_sf/article/details/79932893">常用激活函数（激励函数）理解与总结_网络_StevenSun的博客空间-CSDN博客</a><br>
-<a href="https://zhuanlan.zhihu.com/p/25723112">详解softmax函数以及相关求导过程 - 知乎</a></p>
-<p>word2vector：<br>
-<a href="https://www.jianshu.com/p/1405932293ea">机器学习必须熟悉的算法之word2vector（一） - 简书</a><br>
-<a href="https://www.jianshu.com/p/d0e2d00fb4f0">机器学习必须熟悉的算法之word2vector（二） - 简书</a></p>
-<p>Word Embedding：<br>
-<a href="https://blog.csdn.net/baimafujinji/article/details/77836142">Word Embedding与Word2Vec_Python_白马负金羁-CSDN博客</a></p>
-<p>熵：<br>
-<a href="https://www.jianshu.com/p/09b70253c840">机器学习面试之各种混乱的熵 - 简书</a></p>
-<p>核方法：<br>
-<a href="https://zhuanlan.zhihu.com/p/61794781">核方法、核技巧和核函数 - 知乎</a></p>
-<p>偏差方差：<br>
-<a href="https://www.jianshu.com/p/23550b50b6c1">机器学习面试之偏差方差 - 简书</a></p>
-<p>优化器：<br>
-<a href="https://www.jianshu.com/p/ee39eca29117">机器学习面试之各种优化器的比较 - 简书</a></p>
-<p>归一化与标准化：<br>
-<a href="https://www.jianshu.com/p/4c3081d40ca6">机器学习面试之归一化与标准化 - 简书</a></p>
-<p>attention机制：<br>
-<a href="https://www.jianshu.com/p/c94909b835d6">机器学习面试之Attention - 简书</a></p>
-<h2 id="ai模型">AI模型</h2>
-<p>CRF模型：<br>
-<a href="https://zhuanlan.zhihu.com/p/44042528">最通俗易懂的BiLSTM-CRF模型中的CRF层介绍 - 知乎</a></p>
-<p>最大熵模型：<br>
-<a href="https://www.jianshu.com/p/e7c13002440d">机器学习面试之最大熵模型 - 简书</a></p>
-<p>LR算法：<br>
-<a href="https://www.jianshu.com/p/f86de852ee96">数据挖掘面试题之SVM和LR的不同 - 简书</a></p>
-<p>SVM算法：<br>
-<a href="https://www.jianshu.com/p/f4c7bc6c4ce2">机器学习面试之有必要手推SVM吗（1）？ - 简书</a><br>
-<a href="https://www.jianshu.com/p/bce3b2850406">机器学习面试之有必要手推SVM吗(2)? - 简书</a></p>
-<p>SMO算法：<br>
-<a href="https://www.jianshu.com/p/55458caf0814">用讲故事的办法帮你理解SMO算法 - 简书</a></p>
-<p>决策树：<br>
-<a href="https://www.jianshu.com/p/fb97b21aeb1d">数据挖掘面试题之决策树必知必会 - 简书</a></p>
-<p>梯度提升树：<br>
-<a href="https://www.jianshu.com/p/0e5ccc88d2cb">数据挖掘面试题之梯度提升树 - 简书</a></p>
-<p>梯度上升算法：<br>
-<a href="https://www.jianshu.com/p/eb94c60015c7">《机器学习实战》第五章梯度上升算法的直观理解 - 简书</a></p>
-<p>生成模型、判别模型：<br>
-<a href="https://www.jianshu.com/p/4ef549eb0ad4">机器学习面试之生成模型VS判别模型 - 简书</a></p>
-<p>LDA主题模型：<br>
-<a href="https://blog.csdn.net/v_july_v/article/details/41209515">通俗理解LDA主题模型_网络_结构之法 算法之道-CSDN博客</a><br>
-<a href="https://blog.csdn.net/a358463121/article/details/52562940">带你理解beta分布_人工智能_Jie Qiao的专栏-CSDN博客</a><br>
-http://bloglxm.oss-cn-beijing.aliyuncs.com/lda-LDA数学八卦.pdf</p>
-<p>LSTM：<br>
-<a href="https://www.jianshu.com/p/d6714b732927">机器学习面试之LSTM - 简书</a></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[观点第一季第一期  |  专访饼哥  |  我想做个走遍犄角旮瘩的人]]></title>
         <id>https://bri11ake.github.io/post/guan-dian-di-yi-qi-or-zhuan-fang-bing-ge-or-wo-xiang-zuo-ge-zou-bian-ji-jiao-xu-da-de-ren/</id>
@@ -157,7 +70,7 @@ http://bloglxm.oss-cn-beijing.aliyuncs.com/lda-LDA数学八卦.pdf</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[重启]]></title>
+        <title type="html"><![CDATA[观点第一季第零期 | 重启]]></title>
         <id>https://bri11ake.github.io/post/chong-qi/</id>
         <link href="https://bri11ake.github.io/post/chong-qi/">
         </link>
@@ -187,7 +100,43 @@ http://bloglxm.oss-cn-beijing.aliyuncs.com/lda-LDA数学八卦.pdf</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[滴滴实习那些天：数据中台与数据地图]]></title>
+        <title type="html"><![CDATA[从王者荣耀看MOBA的游戏平衡]]></title>
+        <id>https://bri11ake.github.io/post/cong-wang-zhe-rong-yao-kan-moba-de-you-xi-ping-heng/</id>
+        <link href="https://bri11ake.github.io/post/cong-wang-zhe-rong-yao-kan-moba-de-you-xi-ping-heng/">
+        </link>
+        <updated>2021-04-20T05:07:46.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>​		故事的开始是这样的。</strong></p>
+<p>​       前几天我窝在联创的懒人沙发里打王者荣耀，被对面一个叫澜的英雄折磨得苦不堪言。打完那局之后，我和陈老板吐槽起这个英雄。陈老板很疑惑，王者荣耀这款游戏不应该比较平衡么，只有那些非常顶尖的玩家虐菜炸鱼打低端局时才会产生折磨的现象。</p>
+<p>​		不得不说，陈老板虽然是微信支付里超级厉害的PM，但平时不怎么玩游戏的他对于游戏市场尤其是单款游戏的具体情况实在称不上了解。在和陈老板解释完后，我对这次交流进行了复盘，也借对于王者荣耀的讨论表达一下我对于MOBA对抗类游戏中平衡、机制和数值的看法。</p>
+<p>​	   本文的专业性不强，梳理逻辑链作为脉络，有一定阅读门槛（玩过王者）。下面附上了全文信息概括图，赶时间去打游戏团战的朋友可以直接看图。<br>
+<img src="https://bri11ake.github.io/post-images/1620536902450.png" alt="" loading="lazy"></p>
+<p><strong>​		1.关于游戏的平衡</strong></p>
+<p>​		王者荣耀真的是一款追求平衡的游戏么？</p>
+<p>​		这个点在逻辑检索的过程中往往被人忽视，因为即使是背后团队有能力的游戏中，也会有刻意拉开游戏平衡的存在，其背后的原因往往是盈利。少量充值的玩家相对于没有充钱的玩家将拥有很大的优势，而这样的优势将随着充值金额的增长逐渐拉大，最后趋于饱和。</p>
+<p>​		这样对于游戏平衡简单粗暴的处理方式会牺牲大量的玩家体验，尽管有时候会有虐菜的快感，但这种类型的游戏一定不会让你虐菜的快感存在太久。毕竟如果你已经体验到了很多虐菜的快感，继续充值的行为也将很快到达边界。</p>
+<p>​		说结论，王者荣耀是一款大方向上追求平衡的游戏，至少在实际的对战中是这样。英雄技能数值的微调，英雄机制的改变，装备的更新，地图的调整......密集的版本迭代无不证明了这一点。即使有时为了商业宣传某个英雄，也会让它的强度提升一段时间，但不可否认的是，王者荣耀努力地追求着游戏对战中的平衡。</p>
+<p>​		既然王者荣耀这么想追求游戏对战中的平衡，那么就进入了下一个问题，王者荣耀到底做了些什么。</p>
+<p><strong>2.王者荣耀的平衡术</strong></p>
+<p>​		追求平衡能够照顾到大部分玩家的游戏体验，而方法简单概括来说就是四个字“此消，彼长”，削弱过于强势的英雄，增强过于弱势的英雄。而除了我刚才提到的日常关于机制、数值等方面的调整，王者荣耀也拿出了两套机制来保障游戏的平衡，虽然这两套机制在我看来都是双刃剑。</p>
+<p>​		第一套机制叫做BAN选机制。在排位游戏对战中，两边的玩家都可以在所有人选英雄前BAN掉某个英雄，这个英雄将无法被选择出现在场上。原理很简单，如果你们觉得一个英雄过于强势，那你拥有着不让这个英雄出现在场上的权利；如果你们觉得对面选择这个英雄你也能给对面拿捏了，那你也可以选择让对面有拿这个英雄的权利。这样强制禁选的权利下放给玩家是一种极度灵活的缓冲方式，一旦某个强度超标的英雄出现，在下一次版本调整前，玩家可以不让它出现在场上影响自己的对战体验。</p>
+<p>​		可这套机制就没有问题了么？不。这套机制会伤害到一小群人——某个英雄的忠实玩家。王者荣耀有一个英雄叫做李白，没错，就是诗仙李白，它的强度在曾经的某一段时间里远超其他英雄，于是大家都会把他BAN掉。可是这样一来，那些李白的死忠粉不愿意了，我青莲剑歌十步杀一人的白哥多帅，我就喜欢看他放大招时潇洒的身影，现在我都没机会用它了。后来？后来李白被削弱了，喜欢用李白的那群人也在振臂高呼的人群中。</p>
+<p>​		第二套机制叫整体环境。简单来说一句话概括，王者荣耀里同等经济情况下一个英雄很难一打四、一打五。说到这里我就不得不说另一款MOBA游戏DOTA了。DOTA这个游戏里，那一个英雄是真的可以一打五的，对就是说的幽鬼PA这群英雄。这样整体环境的营造是可以起到自动补救的，一个超标英雄出现了，可是它超标的上限会被这样整体环境的营造所限制的。</p>
+<p>​		同样，这套机制也牺牲了那些追求一打五玩家的一部分快感。（我不禁回想起当年打DOTA，幽鬼开大时对面五人疯狂逃窜的场景）</p>
+<p>​		既然如此，为什么还会有那么多玩家在骂王者荣耀的游戏平衡不行，就像那天被对面澜暴打了的我。很简单，因为平衡实在太难了，而探究其背后的原因，自然离不开机制和数值这两个因素。</p>
+<p><strong>3.MOBA游戏对战中的机制与数值</strong></p>
+<p>​		英雄、场景、装备，这是MOBA游戏的三主体，而每一个主体都会涉及到机制和数值。</p>
+<p>​		先讲英雄，澜这个英雄为什么给我教育了，因为他机制牛逼啊，两段位移、霸体、减速、自动追击、强制对手长距离位移。这些机制搁哪个MOBA游戏里都是牛的，不像某个叫妲己的英雄，只有一个单体控制勉强能看。可是光有机制不够，还得有数值，如果一个英雄只有机制没有高数值，那它的强度也是不行的。哦说的就是你们，花木兰李信。</p>
+<p>​		当一个英雄同时具有了机制和数值，那他的强度就有了保证。</p>
+<p>​		再讲场景，MOBA游戏中的场景对于对战的影响也很大，小兵、防御塔、地型......详情可见当年版本更新拉大草丛距离后花木兰杨戬达摩这些依赖蹲草丛的英雄直接进了下水道。</p>
+<p>​		最后是装备，王者荣耀里面有件装备叫破晓，这个装备出现的那个版本开始直至今日，适合出破晓装备的英雄（也就是射手）就是全王者荣耀最强力的位置，因为这件装备从机制和数值上都过于强力了。</p>
+<p>​		去平衡这三者是一件非常困难的事情，因为不仅有三者之间的关系，还有英雄和英雄之间的关系，机制也会有相互克制依赖的情况。</p>
+<p>​		除非你不改动，不做更新。可是你还是要去追求这样理想化得状态。</p>
+<p>​		写完这些的我又开了一把王者荣耀，这次，我要选澜。</p>
+<p>​</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滴滴实习那些天——数据中台与数据地图]]></title>
         <id>https://bri11ake.github.io/post/di-di-shi-xi-na-xie-tian-zhong-tai-shu-ju-di-tu/</id>
         <link href="https://bri11ake.github.io/post/di-di-shi-xi-na-xie-tian-zhong-tai-shu-ju-di-tu/">
         </link>
@@ -195,10 +144,10 @@ http://bloglxm.oss-cn-beijing.aliyuncs.com/lda-LDA数学八卦.pdf</p>
         <content type="html"><![CDATA[<p>​</p>
 <h2 id="起因">起因</h2>
 <p>在滴滴实习的时候接手了一个更新数据表的任务，因为经验不足，没有提前搞清楚表的上下游关系，所以在沟通协调的过程中遭受了痛苦的折磨。</p>
-<p>​		痛下决心学习了一手数据地图相关的知识，希望今后处理起和数据地图相关的工作能够更加得心应手，也顺带整理了一点数据中台方面的知识。</p>
+<p>​		痛下决心学习了一手数据地图相关的知识，希望今后处理起和数据地图相关的工作能够更加得心应手，也顺带整理了一点数据中台方面的知识。<br /><br /></p>
 <h2 id="关于数据中台">关于数据中台</h2>
 <p>是一个数据管理中枢，会在其中完成数据采集、治理、建模、分析，应用等工作，将数据资源、计算资源、存储资源充分云化，进一步释放数据价值。<br>
-<img src="https://bri11ake.github.io/post-images/1620453619015.JPG" alt="" loading="lazy"></p>
+<img src="https://bri11ake.github.io/post-images/1620453619015.JPG" alt="" loading="lazy"><br /><br /></p>
 <h2 id="关于数据地图">关于数据地图</h2>
 <p>数据地图是将数据资产管理图形化得出的工具，核心功能是对数据管理、开发等不同场景的行为提供支持。</p>
 <p>在滴滴实习期间接触到的数据地图无法展示（高压线），我试着用华科联创团队来举一个简单的例子（虽然我们团队并没有数据地图）</p>
@@ -206,7 +155,7 @@ http://bloglxm.oss-cn-beijing.aliyuncs.com/lda-LDA数学八卦.pdf</p>
 <p>我总结了三个关键词作为数据地图需要具备的特质：</p>
 <p>​		1.准确：凡是和数据有关的事物必须精准</p>
 <p>​		2.完整：便于分析关系，防止遗漏</p>
-<p>​		3.清晰易懂：数据地图归根结底是给人看给人用的，这一点滴滴做的就很不错，非常清晰</p>
+<p>​		3.清晰易懂：数据地图归根结底是给人看给人用的，这一点滴滴做的就很不错，非常清晰<br /><br /></p>
 <h2 id="三种分析查询">三种分析查询</h2>
 <p>关于三种分析查询：关联分析、血缘分析和影响分析。三种分析均为在数据链路中查询对象上下游关系的分析。</p>
 <p>​		关联分析：查找存在于项目集合或对象集合之间的频繁模式、关联、相关性或因果结构。</p>
@@ -214,79 +163,15 @@ http://bloglxm.oss-cn-beijing.aliyuncs.com/lda-LDA数学八卦.pdf</p>
 <p>​		血缘分析：秉持向上追溯的原则，寻找更新的数据根源在何处，最终可能进入巨型数据库</p>
 <p>​		影响分析：秉持向下追溯的原则，寻找影响到的数据表有哪些，最终可能会到达最新业务更新的数据</p>
 <p>就像我在滴滴接手更新任务时，对接的业务部门改一张基础表就会对下游的数据报表造成影响，需要确认这张表涉及的所有下游表。而这张表的更新也会依赖于上游表的更新，所以弄清楚上下游的关系对于进一步的组织协调工作是非常重要的。（吃一堑长一智）</p>
-<p>李泽烨要继续加油！</p>
+<p><strong>李泽烨要继续加油！</strong></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[痛斥无良百度二三句]]></title>
-        <id>https://bri11ake.github.io/post/tong-chi-wu-liang-bai-du-er-san-ju/</id>
-        <link href="https://bri11ake.github.io/post/tong-chi-wu-liang-bai-du-er-san-ju/">
-        </link>
-        <updated>2020-11-01T07:22:11.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>    如果一些事情没法做到，一开始就不要下承诺，不然只会让人寒心。
-    为什么官网流程里和规则讲解中提到的运营经费说没有就没有了呢？
-    给所有参赛选手的理由是无法审批？
-    为什么一开始没有审批好呢？
-    太让人难过了。
-    真就白嫖流量呗。</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蚂蚁金服、借呗与花呗]]></title>
-        <id>https://bri11ake.github.io/post/cong-ma-yi-jin-fu-dao/</id>
-        <link href="https://bri11ake.github.io/post/cong-ma-yi-jin-fu-dao/">
-        </link>
-        <updated>2020-07-16T13:17:54.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>1</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[该死的校园辩手]]></title>
-        <id>https://bri11ake.github.io/post/gai-si-de-xiao-yuan-bian-shou/</id>
-        <link href="https://bri11ake.github.io/post/gai-si-de-xiao-yuan-bian-shou/">
-        </link>
-        <updated>2020-04-09T09:27:03.000Z</updated>
-        <content type="html"><![CDATA[<p><br /><br /><br>
-我是一个辩手，华科校队的辩手，拿过很多次最佳辩手，得过一些冠军，也曾作为嘉宾参加上海交通大学的联合杯表演赛。<br>
-这样的成绩和执中学长，薇薇姐那些出圈辩手比，还差了很远，但自认多少还是做出了一点点成绩。<br>
-虽然我已经有很久不打比赛了，但是听到一些对于辩手的偏见时，心里还是会不舒服。</p>
-<br />
-<p>说起辩手，大家的描述都是“能说会道”、“口才好”。这听上去没什么问题，可是细想起来，却又有些奇怪。为什么夸一个作家从来不会夸他手上的笔，不会夸他的手多么灵巧，不会夸他写出来的字多么好看，也不会说他“笔才好”呢？</p>
-<p>原因很简单，一个好的辩手是不可以简单地用“口才好”概括的。<br>
-<br /><br /><br>
-##一个好的辩手，一定有极强的逻辑思考能力和深度思考能力。<br>
-从准备发言稿，到阐释自己的观点，到发现对方发言的逻辑漏洞，再到按照环节复盘，这些东西都需要强大的逻辑思考能力作为支撑。只要你逻辑思考能力弱了一点，在场上讲出来的话就会被对手揪出来撕碎，然后输掉比赛。所以能成为一个好的辩手，一定证明了你有极强的逻辑思考能力。    而如果你没有深度思考的能力，不能从更多的角度去看待问题，你的观点就会被对方轻易预判，你也无法发现那些没有被前人发现过的观点价值。<br>
-<br /><br>
-##一个好的辩手，一定有极强的观察力和抗压能力。<br>
-辩手的荣耀将在辩论赛中彰显。只要是比赛，就会有竞争。而辩论赛比起一些普通的比赛，会有更加激烈的对抗。你前一秒说出来的话，下一秒就可能会被对方四个人从各种角度攻击；你队友发言中暴露出的问题，可能到你这里就必须完成“女娲补天”。机会转瞬即逝，在聚光灯下，在观众和专业评委甚至摄像机面前，你需要在压力下从容不迫地冷静思考，并组织出强有力的语言。只有这样，你才有机会成为一个好的辩手。<br>
-<br /><br>
-##一个好的辩手，一定有着极强的应变能力和责任心。<br>
-辩论场上，形势千变万化，你永远不知道对方下一轮发言会露出怎样狰狞的獠牙，你也永远不知道队友下一轮发言会产生多大的失误。你要学会乘胜追击，你还要在追击中随机应变；你要学会弥补漏洞，你还要学会在坐下时和队友及时沟通。更重要的，你一定要有“舍我其谁”的责任心，在自由辩中勇敢地承担起责任，才有可能成为一个好的辩手。<br>
-<br /><br>
-##一个好的辩手，一定有着极强的学习能力。<br>
-一场辩论赛的准备时间并不久，你可能需要在一周时间内学习一个领域的知识，找到、理解并应用强有力的数据和事例为你取得优势。我之前打过一个辩题——中国应不应该降低青少年的刑责年龄。短短一周的时间，我们把未成年人保护法、刑法、民法等法典的原则和条例看了个遍，找了几十个可能会用到的青少年犯罪事例，每一个事例都想好了处理的方法。不仅如此，还找了近百个的心理学、教育学专业论文。最终才换来场上的如鱼得水，酣畅淋漓。如果你没有极强的学习能力，你不可能成为一个好的辩手。<br>
-<br /><br>
-##一个好的辩手，一定有着极强的同理心和共情力。<br>
-你永远不知道下一次你会抽签抽到哪个持方，这个持方的观点可能和你的三观完全背道而驰。可是你必须换位思考，你必须感同身受，你必须知道这样观点是如何产生为何产生，你必须知道这个和你价值观完全不符合的观点有什么存在的价值，有什么可以深入挖掘的、可以宣扬的东西。不仅如此，你还需要知道对手的想法，这样才能做出更好的准备。这是辩手的艰难，可也是你成为一个好辩手的必需条件。<br>
-<br /><br>
-##一个好的辩手，一定有着极强的包容心。<br>
-当你越发地接近真理，当你把越来越多的事情看的清楚，当你有越来越多的观点，当你的观察力越来越强。你会发现生活中更多的荒谬之处，一些人毫无逻辑地自说自话，一些事毫无道理地出现。你可以去改变和抗争，可是如果你每一件事都这么做，你只会处于极度疲倦之中。明明是想要为真理而战的斗士，却不得不和更多的无理和解。这其实是辩手的可悲之处，可你必须要有极强的包容心，才能够生存下去。<br>
-<br /><br>
-我不知道一个简单的“逻辑不错”或者是“口才好”能否真的概括一个辩手，大家这么说我觉得也没有问题。<br>
-可是会不会有些人，那些用揶揄的语气、玩味的眼神对待辩手身份的人，他们心里想的其实是“他是一个好辩手，可是也不过就只会诡辩来搬弄是非颠倒黑白。”<br>
-我不知道会不会，我不想管会不会。<br>
-被误解，本身就是表达者的宿命。<br>
-<br /><br>
-##可我还是愿意做一个表达者，这就够了。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[滴滴实习那些天:      sql语言那些事]]></title>
+        <title type="html"><![CDATA[滴滴实习那些天——sql语言那些事]]></title>
         <id>https://bri11ake.github.io/post/di-di-shi-xi-na-xie-tian-sql-yu-yan-na-xie-shi/</id>
         <link href="https://bri11ake.github.io/post/di-di-shi-xi-na-xie-tian-sql-yu-yan-na-xie-shi/">
         </link>
-        <updated>2019-12-13T03:27:42.000Z</updated>
+        <updated>2020-12-13T03:27:42.000Z</updated>
         <content type="html"><![CDATA[<p>​</p>
 <p>在滴滴实习期间用了很多次sql语言，痛苦的学习过程也让我成长。稍微整理了一下sql语言的知识点。编程语言长期不用也会生疏和遗忘，希望自己将来会再用到的时候能够通过之前的整理快速重启。</p>
 <h2 id="数据和表"><strong>数据和表</strong></h2>
@@ -384,6 +269,194 @@ http://bloglxm.oss-cn-beijing.aliyuncs.com/lda-LDA数学八卦.pdf</p>
 <h2 id="约束-视图与事务"><strong>约束、视图与事务</strong></h2>
 <p>CREATE VIEW (视图名称) AS (SQL代码)：相当于封装了一段代码，可以让别人只看到这段代码显示的数据</p>
 <p>START TRANSACTION、COMMIT、ROLLBACK：事务的三部，开始、提交和回滚</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[痛斥无良百度二三句]]></title>
+        <id>https://bri11ake.github.io/post/tong-chi-wu-liang-bai-du-er-san-ju/</id>
+        <link href="https://bri11ake.github.io/post/tong-chi-wu-liang-bai-du-er-san-ju/">
+        </link>
+        <updated>2020-11-01T07:22:11.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>    如果一些事情没法做到，一开始就不要下承诺，不然只会让人寒心。
+    为什么官网流程里和规则讲解中提到的运营经费说没有就没有了呢？
+    给所有参赛选手的理由是无法审批？
+    为什么一开始没有审批好呢？
+    太让人难过了。
+    真就白嫖流量呗。</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API]]></title>
+        <id>https://bri11ake.github.io/post/chan-pin-jing-li-xu-yao-liao-jie-de-api/</id>
+        <link href="https://bri11ake.github.io/post/chan-pin-jing-li-xu-yao-liao-jie-de-api/">
+        </link>
+        <updated>2020-09-18T14:04:54.000Z</updated>
+        <content type="html"><![CDATA[<p>API，全称是Application Programming Interface，即应用程序编程接口，我们日常中习惯简称为“接口”。API事实上是在内部预先定义了函数，能够使开发人员无须明白API内部实现的机制，就能够实现某一个功能。</p>
+<p><strong>API的作用</strong><br>
+各个子系统或者各个模块之间通过接口进行调用，可以让整个系统拓展性增强。<br>
+各个子系统或各模块之间信息传输必须要进行一定的安全验证，保证信息传输的正确性。</p>
+<p><strong>API文档的结构</strong><br>
+​ 1、接口描述：这个接口是用来干嘛的，以及相关的规则</p>
+<p>​ 2、接口地址：以网址的形式展现，你通过发送请求给这个网址来对接口进行交互操作</p>
+<p>​ 3、请求方法：常用的有post和get两种方式，一个是读接口(常用get)一个是写接口(常用post)</p>
+<p>​ 4、请求参数：请求该接口时，需要提供的参数，参数属性包括名称、类型、是否必填、描述等</p>
+<p>​ 5、返回参数：接口正常响应后，返回的内容</p>
+<p>​ 6、错误代码：接口请求失败后，返回的错误代码</p>
+<p><strong>API文档参考</strong></p>
+<figure data-type="image" tabindex="1"><img src="https://bri11ake.github.io/post-images/1620482815950.jpg" alt="" loading="lazy"></figure>
+<p><strong>API传值情况</strong><br>
+同步：主要作用于页面跳转，传值信息主要将页面所要处理的最关键信息传输即可。</p>
+<p>异步：是为了强调给对接的模块处理业务信息，传值信息根据实际情况尽可能详细一些，但是必须和本接口设计的目标一致，不要传输太多无用的参数。</p>
+<p><strong>产品逻辑</strong><br>
+以美团门票直连系统为例</p>
+<p><strong>系统结构</strong><br>
+<img src="https://bri11ake.github.io/post-images/1620482842348.jpg" alt="" loading="lazy"><br>
+<img src="https://bri11ake.github.io/post-images/1620482849475.jpg" alt="" loading="lazy"></p>
+<p><strong>接口总览</strong><br>
+按接口类型和属性可分为三类：数据类、交易类和通知类。有一部分为美团接口，另一部分接口需要商家进行开发。<br>
+<img src="https://bri11ake.github.io/post-images/1620482859682.jpg" alt="" loading="lazy"><br>
+数据类：商家数据对接到美团（涉及到商家的4个接口，拉取产品信息、产品变化通知、拉取景点信息、拉取价格日历）<br>
+交易类：“用户——美团——商家”的交易行为（涉及到商家的5个接口）<br>
+通知类：包括商家开发的已出票、票已使用、已退款3个接口，美团自有的已退款、查余额、编审状态通知的3个接口。</p>
+<p><strong>异常问题</strong><br>
+用户体验 —— 具体场景 &amp; 数据监控<br>
+对用户来说，流程的任一节点不顺畅，都会导致体验不好，故根据用户行为轨迹来进行数据监控。</p>
+<p>①页面展示慢——接口响应时长、用户页面停留时长、跳失率<br>
+Reason：实时调接口查询景点&amp;产品信息，因数据量大或频率快导致。<br>
+Solution：缓存数据，每N分钟更新一次。</p>
+<p>②数据展示异常——后台返回接口异常的次数和概率<br>
+Reason：接口超时或异常。<br>
+Solution：可以设定重复调用，多次重试失败后，通过邮件等形式通知到运营、技术或商家。<br>
+针对数据型接口，对产品进行下架或隐藏处理。<br>
+针对交易型接口，下单、支付的问题可以提醒用户、为用户推荐同类产品、对产品进行下架或隐藏处理；退票类问题可以建议用户之后重试，如果比较紧急可以联系客服加急处理。<br>
+针对通知型接口，不涉及用户，邮件处理即可，可人工介入更新信息。</p>
+<p>③产品变动，特别是变价——下单失败率、变价率、出票失败率<br>
+Reason：数据更新有时间差。<br>
+Solution：当某一产品的失败率或变价率超出规定，可隐藏或下架；<br>
+针对某些产品库存少的情况进行提示，预告风险；<br>
+设定合理的定时更新任务。</p>
+<p>④下单/支付/退票失败——失败率、失败原因<br>
+Reason：用户可能多次提交，或者订单已使用、已关闭等客观原因，无法成功。<br>
+Solution：需要加入检验机制，比如在短时间内重复提交不调用接口，直接返回原结果；<br>
+善意提醒用户不要重复提交，如“您的手太快了，请休息30s后再试”；<br>
+可以提供IM人工或电话咨询、留言等选项。</p>
+<p>⑤服务响应时间长——手工操作订单量和占比<br>
+Reason：比如用户提交退票后长时间不退款；支付后长时间不出票<br>
+Solution：定时调用订单查询接口，更新订单状态并短信/推送消息告知用户；<br>
+超过服务规范时间前发送预警邮件，人工介入处理。</p>
+<ol>
+<li>商家体验 —— 数据监控 &amp; 具体场景<br>
+对商家来说，用户体验不重要，转化率和利润才是重点，故数据监控以业务指标为主。</li>
+</ol>
+<p>①重复生单、生单不支付占库存——订单量、订单支付转化率、支付失败率、库存占用量和支付量<br>
+Reason：用户手速太快；恶意占库存<br>
+Solution：制定规则，同一人只能占一个库存；同一订单最多只能订N个人。</p>
+<p>②恶意重复调用接口——涉及到的每个接口调用频率<br>
+Reason：比如短时间重复调用某一接口<br>
+Solution:规定同一IP地址不能在短时间内多次调用；<br>
+直接返回第一次调用接口的结果，不再重复调用；<br>
+每个接口在同一时间最多N次调用，否则返回失败等。</p>
+<p>③因数据更新不及时等导致的亏损——（佣金、广告）投入产出比、人为损失<br>
+Reason：用户使用后退款完成、用户支付后变价等<br>
+Solution：根据时间差、处理规则来明确划定责任方。</p>
+<p>④结算问题——财务对账自身支出（退款）和收入（美团给商家的结算金额）<br>
+Reason：平台和商家以“T+N”的方式结算<br>
+Solution：B端订单系统里的财务对账功能，可以用邮件形式每日发送；<br>
+监测异常数据，如当日无结算、结算金额与订单金额不一致。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机器学习线路（码）]]></title>
+        <id>https://bri11ake.github.io/post/ji-qi-xue-xi-xian-lu-ma/</id>
+        <link href="https://bri11ake.github.io/post/ji-qi-xue-xi-xian-lu-ma/">
+        </link>
+        <updated>2020-08-08T03:46:09.000Z</updated>
+        <content type="html"><![CDATA[<p>机器学习的线路<br>
+先码着，慢慢学慢慢整</p>
+<h3 id="深度学习">深度学习</h3>
+<p><a href="https://www.jianshu.com/p/df9a4473d6d4">浅谈深度学习基础（上） - 简书</a><br>
+<a href="https://www.jianshu.com/p/3d1ddfce1563">浅谈深度学习基础（下） - 简书</a></p>
+<h3 id="机器学习">机器学习</h3>
+<p><a href="https://www.jianshu.com/p/ed9ae5385b89?utm_campaign=haruki&amp;utm_content=note&amp;utm_medium=reader_share&amp;utm_source=weixin">浅谈机器学习基础（上） - 简书</a><br>
+<a href="https://www.jianshu.com/p/0359e3b7bb1b">浅谈机器学习基础（下） - 简书</a><br>
+<a href="https://shimo.im/docs/HvhvkPqtcpCWCrx8/read">团员分享<em>产品视角的14种常见算法简单总结</em>@haiqiao_20200210</a></p>
+<h3 id="nlp">NLP</h3>
+<p><a href="https://shimo.im/docs/eSrDCe2611wiwZUA/read">团员分享_NLP相关Deep Learning模型小结_Lily_20190427</a><br>
+<a href="https://www.jianshu.com/p/c123c7534500">浅谈自然语言处理基础（上） - 简书</a><br>
+<a href="https://www.jianshu.com/p/3bb214a200ca">浅谈自然语言处理基础（中） - 简书</a><br>
+<a href="https://www.jianshu.com/p/872a72e861fd">浅谈自然语言处理基础（下） - 简书</a></p>
+<h2 id="辅助算法">辅助算法</h2>
+<p>EM算法：<br>
+<a href="https://blog.csdn.net/zouxy09/article/details/8537620">从最大似然到EM算法浅解_网络_zouxy09的专栏-CSDN博客</a><br>
+<a href="https://www.jianshu.com/p/1121509ac1dc">如何感性地理解EM算法？ - 简书</a></p>
+<p>BP算法：<br>
+<a href="https://zhuanlan.zhihu.com/p/25609953">神经网络反向传播算法 - 知乎</a></p>
+<p>损失函数：<br>
+<a href="https://zhuanlan.zhihu.com/p/58883095">常见的损失函数(loss function)总结 - 知乎</a><br>
+<a href="https://zhuanlan.zhihu.com/p/38241764">简单的交叉熵损失函数，你真的懂了吗？ - 知乎</a><br>
+<a href="https://www.jianshu.com/p/5d13bcd9d990">机器学习面试之MSE与CE的区别？ - 简书</a></p>
+<p>激活函数：<br>
+<a href="https://blog.csdn.net/tyhj_sf/article/details/79932893">常用激活函数（激励函数）理解与总结_网络_StevenSun的博客空间-CSDN博客</a><br>
+<a href="https://zhuanlan.zhihu.com/p/25723112">详解softmax函数以及相关求导过程 - 知乎</a></p>
+<p>word2vector：<br>
+<a href="https://www.jianshu.com/p/1405932293ea">机器学习必须熟悉的算法之word2vector（一） - 简书</a><br>
+<a href="https://www.jianshu.com/p/d0e2d00fb4f0">机器学习必须熟悉的算法之word2vector（二） - 简书</a></p>
+<p>Word Embedding：<br>
+<a href="https://blog.csdn.net/baimafujinji/article/details/77836142">Word Embedding与Word2Vec_Python_白马负金羁-CSDN博客</a></p>
+<p>熵：<br>
+<a href="https://www.jianshu.com/p/09b70253c840">机器学习面试之各种混乱的熵 - 简书</a></p>
+<p>核方法：<br>
+<a href="https://zhuanlan.zhihu.com/p/61794781">核方法、核技巧和核函数 - 知乎</a></p>
+<p>偏差方差：<br>
+<a href="https://www.jianshu.com/p/23550b50b6c1">机器学习面试之偏差方差 - 简书</a></p>
+<p>优化器：<br>
+<a href="https://www.jianshu.com/p/ee39eca29117">机器学习面试之各种优化器的比较 - 简书</a></p>
+<p>归一化与标准化：<br>
+<a href="https://www.jianshu.com/p/4c3081d40ca6">机器学习面试之归一化与标准化 - 简书</a></p>
+<p>attention机制：<br>
+<a href="https://www.jianshu.com/p/c94909b835d6">机器学习面试之Attention - 简书</a></p>
+<h2 id="ai模型">AI模型</h2>
+<p>CRF模型：<br>
+<a href="https://zhuanlan.zhihu.com/p/44042528">最通俗易懂的BiLSTM-CRF模型中的CRF层介绍 - 知乎</a></p>
+<p>最大熵模型：<br>
+<a href="https://www.jianshu.com/p/e7c13002440d">机器学习面试之最大熵模型 - 简书</a></p>
+<p>LR算法：<br>
+<a href="https://www.jianshu.com/p/f86de852ee96">数据挖掘面试题之SVM和LR的不同 - 简书</a></p>
+<p>SVM算法：<br>
+<a href="https://www.jianshu.com/p/f4c7bc6c4ce2">机器学习面试之有必要手推SVM吗（1）？ - 简书</a><br>
+<a href="https://www.jianshu.com/p/bce3b2850406">机器学习面试之有必要手推SVM吗(2)? - 简书</a></p>
+<p>SMO算法：<br>
+<a href="https://www.jianshu.com/p/55458caf0814">用讲故事的办法帮你理解SMO算法 - 简书</a></p>
+<p>决策树：<br>
+<a href="https://www.jianshu.com/p/fb97b21aeb1d">数据挖掘面试题之决策树必知必会 - 简书</a></p>
+<p>梯度提升树：<br>
+<a href="https://www.jianshu.com/p/0e5ccc88d2cb">数据挖掘面试题之梯度提升树 - 简书</a></p>
+<p>梯度上升算法：<br>
+<a href="https://www.jianshu.com/p/eb94c60015c7">《机器学习实战》第五章梯度上升算法的直观理解 - 简书</a></p>
+<p>生成模型、判别模型：<br>
+<a href="https://www.jianshu.com/p/4ef549eb0ad4">机器学习面试之生成模型VS判别模型 - 简书</a></p>
+<p>LDA主题模型：<br>
+<a href="https://blog.csdn.net/v_july_v/article/details/41209515">通俗理解LDA主题模型_网络_结构之法 算法之道-CSDN博客</a><br>
+<a href="https://blog.csdn.net/a358463121/article/details/52562940">带你理解beta分布_人工智能_Jie Qiao的专栏-CSDN博客</a><br>
+http://bloglxm.oss-cn-beijing.aliyuncs.com/lda-LDA数学八卦.pdf</p>
+<p>LSTM：<br>
+<a href="https://www.jianshu.com/p/d6714b732927">机器学习面试之LSTM - 简书</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[原创小说节选]]></title>
+        <id>https://bri11ake.github.io/post/yuan-chuang-xiao-shuo-jie-xuan/</id>
+        <link href="https://bri11ake.github.io/post/yuan-chuang-xiao-shuo-jie-xuan/">
+        </link>
+        <updated>2020-06-10T10:19:25.000Z</updated>
+        <content type="html"><![CDATA[<p>##来自我的原创小说《天岁城》的节选<br>
+<br /><br /><br>
+汪非扶着小巷的墙壁，身子一点一点滑了下去，露出了那把不知什么时候贯穿他胸口的手戟。眼前的景色已经看不真切，只能模模糊糊看到黑暗巷子外的光。汪非就这样一点一点地，像一条蛆虫一般，朝着外面明亮的街道爬去，身后拖着长长的血迹，就像他十年来一直在做的那样。<br>
+他的面前，这条不知名小巷的外面，是繁华的天岁城街道。人们三两成群走过街头，小孩子还舔着刚买的糖葫芦，老人还坐在树下乘凉，小贩们还叫卖着拉客。春光明媚，车水马龙，像是永乐坊新谱的那首小曲般流畅欢快。<br>
+可汪非的手还是无力地垂了下来，停在了光暗交替的地方。他努力地睁大眼睛，最后一次看着这座他深爱的天岁城，成就了也埋葬了他人生的天岁城。<br>
+曾经的天岁四杰之一，汪非，死亡。<br>
+<br /><br /><br>
+这一段我来来回回改了好几天，总是写不好，最后终于整了个还算满意的版本，记录一下！</p>
 ]]></content>
     </entry>
 </feed>

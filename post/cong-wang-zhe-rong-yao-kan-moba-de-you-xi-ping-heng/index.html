@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>从王者荣耀看MOBA的游戏平衡 | bri11ake</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://bri11ake.github.io/favicon.ico?v=1620634990554">
+<link rel="stylesheet" href="https://bri11ake.github.io/styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="​		故事的开始是这样的。
+​       前几天我窝在联创的懒人沙发里打王者荣耀，被对面一个叫澜的英雄折磨得苦不堪言。打完那局之后，我和陈老板吐槽起这个英雄。陈老板很疑惑，王者荣耀这款游戏不应该比较平衡么，只有那些非常顶尖的玩家虐菜炸鱼打..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://bri11ake.github.io">
+        <img src="https://bri11ake.github.io/images/avatar.png?v=1620634990554" class="site-logo">
+        <h1 class="site-title">bri11ake</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            时间轴
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            阅前须知
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      永远年轻 永远热泪盈眶
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://bri11ake.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">从王者荣耀看MOBA的游戏平衡</h2>
+            <div class="post-date">2021-04-20</div>
+            
+            <div class="post-content" v-pre>
+              <p><strong>​		故事的开始是这样的。</strong></p>
+<p>​       前几天我窝在联创的懒人沙发里打王者荣耀，被对面一个叫澜的英雄折磨得苦不堪言。打完那局之后，我和陈老板吐槽起这个英雄。陈老板很疑惑，王者荣耀这款游戏不应该比较平衡么，只有那些非常顶尖的玩家虐菜炸鱼打低端局时才会产生折磨的现象。</p>
+<p>​		不得不说，陈老板虽然是微信支付里超级厉害的PM，但平时不怎么玩游戏的他对于游戏市场尤其是单款游戏的具体情况实在称不上了解。在和陈老板解释完后，我对这次交流进行了复盘，也借对于王者荣耀的讨论表达一下我对于MOBA对抗类游戏中平衡、机制和数值的看法。</p>
+<p>​	   本文的专业性不强，梳理逻辑链作为脉络，有一定阅读门槛（玩过王者）。下面附上了全文信息概括图，赶时间去打游戏团战的朋友可以直接看图。<br>
+<img src="https://bri11ake.github.io/post-images/1620536902450.png" alt="" loading="lazy"></p>
+<p><strong>​		1.关于游戏的平衡</strong></p>
+<p>​		王者荣耀真的是一款追求平衡的游戏么？</p>
+<p>​		这个点在逻辑检索的过程中往往被人忽视，因为即使是背后团队有能力的游戏中，也会有刻意拉开游戏平衡的存在，其背后的原因往往是盈利。少量充值的玩家相对于没有充钱的玩家将拥有很大的优势，而这样的优势将随着充值金额的增长逐渐拉大，最后趋于饱和。</p>
+<p>​		这样对于游戏平衡简单粗暴的处理方式会牺牲大量的玩家体验，尽管有时候会有虐菜的快感，但这种类型的游戏一定不会让你虐菜的快感存在太久。毕竟如果你已经体验到了很多虐菜的快感，继续充值的行为也将很快到达边界。</p>
+<p>​		说结论，王者荣耀是一款大方向上追求平衡的游戏，至少在实际的对战中是这样。英雄技能数值的微调，英雄机制的改变，装备的更新，地图的调整......密集的版本迭代无不证明了这一点。即使有时为了商业宣传某个英雄，也会让它的强度提升一段时间，但不可否认的是，王者荣耀努力地追求着游戏对战中的平衡。</p>
+<p>​		既然王者荣耀这么想追求游戏对战中的平衡，那么就进入了下一个问题，王者荣耀到底做了些什么。</p>
+<p><strong>2.王者荣耀的平衡术</strong></p>
+<p>​		追求平衡能够照顾到大部分玩家的游戏体验，而方法简单概括来说就是四个字“此消，彼长”，削弱过于强势的英雄，增强过于弱势的英雄。而除了我刚才提到的日常关于机制、数值等方面的调整，王者荣耀也拿出了两套机制来保障游戏的平衡，虽然这两套机制在我看来都是双刃剑。</p>
+<p>​		第一套机制叫做BAN选机制。在排位游戏对战中，两边的玩家都可以在所有人选英雄前BAN掉某个英雄，这个英雄将无法被选择出现在场上。原理很简单，如果你们觉得一个英雄过于强势，那你拥有着不让这个英雄出现在场上的权利；如果你们觉得对面选择这个英雄你也能给对面拿捏了，那你也可以选择让对面有拿这个英雄的权利。这样强制禁选的权利下放给玩家是一种极度灵活的缓冲方式，一旦某个强度超标的英雄出现，在下一次版本调整前，玩家可以不让它出现在场上影响自己的对战体验。</p>
+<p>​		可这套机制就没有问题了么？不。这套机制会伤害到一小群人——某个英雄的忠实玩家。王者荣耀有一个英雄叫做李白，没错，就是诗仙李白，它的强度在曾经的某一段时间里远超其他英雄，于是大家都会把他BAN掉。可是这样一来，那些李白的死忠粉不愿意了，我青莲剑歌十步杀一人的白哥多帅，我就喜欢看他放大招时潇洒的身影，现在我都没机会用它了。后来？后来李白被削弱了，喜欢用李白的那群人也在振臂高呼的人群中。</p>
+<p>​		第二套机制叫整体环境。简单来说一句话概括，王者荣耀里同等经济情况下一个英雄很难一打四、一打五。说到这里我就不得不说另一款MOBA游戏DOTA了。DOTA这个游戏里，那一个英雄是真的可以一打五的，对就是说的幽鬼PA这群英雄。这样整体环境的营造是可以起到自动补救的，一个超标英雄出现了，可是它超标的上限会被这样整体环境的营造所限制的。</p>
+<p>​		同样，这套机制也牺牲了那些追求一打五玩家的一部分快感。（我不禁回想起当年打DOTA，幽鬼开大时对面五人疯狂逃窜的场景）</p>
+<p>​		既然如此，为什么还会有那么多玩家在骂王者荣耀的游戏平衡不行，就像那天被对面澜暴打了的我。很简单，因为平衡实在太难了，而探究其背后的原因，自然离不开机制和数值这两个因素。</p>
+<p><strong>3.MOBA游戏对战中的机制与数值</strong></p>
+<p>​		英雄、场景、装备，这是MOBA游戏的三主体，而每一个主体都会涉及到机制和数值。</p>
+<p>​		先讲英雄，澜这个英雄为什么给我教育了，因为他机制牛逼啊，两段位移、霸体、减速、自动追击、强制对手长距离位移。这些机制搁哪个MOBA游戏里都是牛的，不像某个叫妲己的英雄，只有一个单体控制勉强能看。可是光有机制不够，还得有数值，如果一个英雄只有机制没有高数值，那它的强度也是不行的。哦说的就是你们，花木兰李信。</p>
+<p>​		当一个英雄同时具有了机制和数值，那他的强度就有了保证。</p>
+<p>​		再讲场景，MOBA游戏中的场景对于对战的影响也很大，小兵、防御塔、地型......详情可见当年版本更新拉大草丛距离后花木兰杨戬达摩这些依赖蹲草丛的英雄直接进了下水道。</p>
+<p>​		最后是装备，王者荣耀里面有件装备叫破晓，这个装备出现的那个版本开始直至今日，适合出破晓装备的英雄（也就是射手）就是全王者荣耀最强力的位置，因为这件装备从机制和数值上都过于强力了。</p>
+<p>​		去平衡这三者是一件非常困难的事情，因为不仅有三者之间的关系，还有英雄和英雄之间的关系，机制也会有相互克制依赖的情况。</p>
+<p>​		除非你不改动，不做更新。可是你还是要去追求这样理想化得状态。</p>
+<p>​		写完这些的我又开了一把王者荣耀，这次，我要选澜。</p>
+<p>​</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://bri11ake.github.io/post/di-di-shi-xi-na-xie-tian-zhong-tai-shu-ju-di-tu/">
+                  <h3 class="post-title">
+                    滴滴实习那些天——数据中台与数据地图
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>
